@@ -1,4 +1,4 @@
-# PlusAuth NodeJS Starter Project
+# PlusAuth Financial Application in NodeJS Example
 
 This is a very simple Node.js project demonstrating how wto use PlusAuth financial clients in a FAPI conformant way.
 
