@@ -1,0 +1,7 @@
+extends layout
+
+block main
+    .container
+        h3 Welcome #{locals.user.email}
+        pre.
+            User object: #{ JSON.stringify(locals.user, null, 2) }
