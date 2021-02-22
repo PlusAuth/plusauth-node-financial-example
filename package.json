@@ -4,8 +4,8 @@
   "private": true,
   "license": "MIT",
   "author": {
-    "name": "Sinan Sakaoglu",
-    "email": "sinan.sakaoglu@ekinokssoftware.com"
+    "name": "Ismail H. Ayaz",
+    "email": "ismail.ayaz@ekinokssoftware.com"
   },
   "scripts": {
     "start": "node app.js"
